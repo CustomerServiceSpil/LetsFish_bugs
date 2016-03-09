@@ -33,4 +33,5 @@ https://spilgames.zendesk.com/agent/tickets/223687
 
 https://spilgames.zendesk.com/agent/tickets/224253
 
-8. New to come...
+8. Did not fully compensate player EN:
+https://spilgames.zendesk.com/agent/tickets/224496
