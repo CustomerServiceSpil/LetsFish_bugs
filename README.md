@@ -33,5 +33,10 @@ https://spilgames.zendesk.com/agent/tickets/223687
 
 https://spilgames.zendesk.com/agent/tickets/224253
 
-8. Did not fully compensate player EN:
+8. Did not fully compensate player:
 https://spilgames.zendesk.com/agent/tickets/224496
+
+9. smaller fish being caught than it was shown on the screen. 
+-discrepancies on the screen with points shown.
+
+https://spilgames.zendesk.com/agent/tickets/226395
