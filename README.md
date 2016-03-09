@@ -45,3 +45,8 @@ https://spilgames.zendesk.com/agent/tickets/226395
 it decreases the weight of fish, cannot play all 5 duels 05.03-06.03. result: worse position in event and prizes.
 
 https://spilgames.zendesk.com/agent/tickets/226321
+
+11. TSG reply: they know about the bug, and thank for info on awards, 
+ask to close the ticket.
+
+https://spilgames.zendesk.com/agent/tickets/223276
