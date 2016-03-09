@@ -40,3 +40,8 @@ https://spilgames.zendesk.com/agent/tickets/224496
 -discrepancies on the screen with points shown.
 
 https://spilgames.zendesk.com/agent/tickets/226395
+
+10. again the same issue: wrong points in ranking from 05.02 till 21.02.2016. 
+it decreases the weight of fish, cannot play all 5 duels 05.03-06.03. result: worse position in event and prizes.
+
+https://spilgames.zendesk.com/agent/tickets/226321
